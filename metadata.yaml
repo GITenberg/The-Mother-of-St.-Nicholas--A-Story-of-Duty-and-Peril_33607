@@ -1,0 +1,27 @@
+_repo: The-Mother-of-St.-Nicholas--A-Story-of-Duty-and-Peril_33607
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33607-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Balfour, Grant
+    alias: Grant, James Miller
+    gutenberg_agent_id: '36471'
+    url: http://www.gutenberg.org/2009/agents/36471
+description: ''
+gutenberg_issued: '2010-09-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33607'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian fiction'
+- !lcsh 'Patara (Extinct city) -- Fiction'
+- !lcsh 'Persecution -- History -- Early church, ca. 30-600 -- Fiction'
+- !lcc 'PS'
+title: 'The Mother of St. Nicholas: A Story of Duty and Peril'
+url: http://www.gutenberg.org/ebooks/33607
